@@ -1,7 +1,7 @@
 #### NotesKaggle
 #### 本笔记内容为Kaggle学习笔记
 #### 石墨文档https://shimo.im/docs/dywKKQwDYWkxxYq8
-#### wx群
+
  
 - 本笔记使用jupyter notebook书写，
 - 推荐下载了看，
